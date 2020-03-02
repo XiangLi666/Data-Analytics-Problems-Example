@@ -1,2 +1,2 @@
 # Data-Analytics-Problems-Example
-This repository exhibits one of my R coding files. I used R a lot, and I'm good at using packages like 'dplyr' abd 'data.table' to transform and mining huge dataset and using 'ggplot2' to do visualizations. 
+This repository exhibits some of my coding files from Python, R and SQL. For R, I'm good at using packages like 'dplyr' abd 'data.table' to transform and mining huge dataset and using 'ggplot2' to do information visualizations. For Python, I am not only good at dealing with large datasets with 'Pandas', but also good at performing machine learning with 'Sciki-learn'. For SQL, I am good at all kinds of joint methods and solving problems regarding dates. 
